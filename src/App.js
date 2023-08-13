@@ -1,0 +1,63 @@
+import logo from "./logo.svg";
+import "./App.css";
+
+function App() {
+  return (
+    <div className="App">
+      <div className="container">
+        <div className="header">
+          <nav>
+            <img src="./assets/logo-final.png" alt="" className="logo" />
+            <a
+              href="https://app.getstellr.io/"
+              className="header-button link-tagger"
+            >
+              Get Started
+            </a>
+          </nav>
+        </div>
+        <div className="main-content">
+          <div className="main-content-inside">
+            <h1>Your digital business is in good hands with us!</h1>
+            <p>
+              Make your work easier with an integrated ecosystem that lets all
+              departments work properly together.
+            </p>
+            <a href="https://app.getstellr.io/" className="link-tagger">
+              Get Started
+            </a>
+          </div>
+        </div>
+        <div className="custom-shape-divider-bottom-1691913848">
+          <svg
+            data-name="Layer 1"
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 1200 120"
+            preserveAspectRatio="none"
+          >
+            <path
+              d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z"
+              className="shape-fill"
+            />
+          </svg>
+        </div>
+      </div>
+      <div className="laptop">
+        <div className="laptop__screen">
+          <img
+            src="./assets/capture3.png"
+            width={1600}
+            height={1000}
+            alt="Screen"
+          />
+        </div>
+        <div className="laptop__bottom">
+          <div className="laptop__under" />
+        </div>
+        <div className="laptop__shadow" />
+      </div>
+    </div>
+  );
+}
+
+export default App;
