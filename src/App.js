@@ -18,11 +18,8 @@ function App() {
         </div>
         <div className="main-content">
           <div className="main-content-inside">
-            <h1>Your digital business is in good hands with us!</h1>
-            <p>
-              Make your work easier with an integrated ecosystem that lets all
-              departments work properly together.
-            </p>
+            <h1>Advanced ELN for the Modern Scientists!</h1>
+            <p>Discover. Simplify. Achieve</p>
             <a href="https://app.getstellr.io/" className="link-tagger">
               Get Started
             </a>
