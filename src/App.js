@@ -42,7 +42,7 @@ function App() {
       <div className="laptop">
         <div className="laptop__screen">
           <img
-            src="./assets/capture3.png"
+            src="./assets/capture.png"
             width={1600}
             height={1000}
             alt="Screen"
