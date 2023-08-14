@@ -18,7 +18,10 @@ function App() {
         </div>
         <div className="main-content">
           <div className="main-content-inside">
-            <h1>Advanced ELN for the Modern Scientists</h1>
+            <h1>
+              Advanced ELN for <br />
+              Modern Scientists
+            </h1>
             <p>Discover. Simplify. Achieve</p>
             <a href="https://app.getstellr.io/" className="link-tagger">
               Get Started
@@ -52,6 +55,14 @@ function App() {
           <div className="laptop__under" />
         </div>
         <div className="laptop__shadow" />
+        <footer>
+          <div className="footer-inside">
+            <h1>© Stellr Tech Solutions Private Limited</h1>
+          </div>
+        </footer>
+      </div>
+      <div className="main-div-bottom">
+        <h1>© Stellr Tech Solutions Private Limited</h1>
       </div>
     </div>
   );
