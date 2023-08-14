@@ -19,8 +19,10 @@ function App() {
         <div className="main-content">
           <div className="main-content-inside">
             <h1>
-              Advanced ELN for <br />
-              Modern Scientists
+              AI-Powered ELN for
+              <br /> Modern Scientists
+              {/* Advanced ELN for 
+              Modern Scientists */}
             </h1>
             <p>Discover. Simplify. Achieve</p>
             <a href="https://app.getstellr.io/" className="link-tagger">
