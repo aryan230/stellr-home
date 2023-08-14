@@ -18,7 +18,7 @@ function App() {
         </div>
         <div className="main-content">
           <div className="main-content-inside">
-            <h1>Advanced ELN for the Modern Scientists!</h1>
+            <h1>Advanced ELN for the Modern Scientists</h1>
             <p>Discover. Simplify. Achieve</p>
             <a href="https://app.getstellr.io/" className="link-tagger">
               Get Started
