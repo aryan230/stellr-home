@@ -9,7 +9,7 @@ function App() {
           <nav>
             <img src="./assets/logo-final.png" alt="" className="logo" />
             <a
-              href="https://app.getstellr.io/"
+              href="https://app.getstellr.io/login"
               className="header-button link-tagger"
             >
               Get Started
