@@ -25,7 +25,7 @@ function App() {
               Modern Scientists */}
             </h1>
             <p>Discover. Simplify. Achieve</p>
-            <a href="https://app.getstellr.io/" className="link-tagger">
+            <a href="https://app.getstellr.io/login" className="link-tagger">
               Get Started
             </a>
           </div>
