@@ -8,12 +8,21 @@ function App() {
         <div className="header">
           <nav>
             <img src="./assets/logo-final.png" alt="" className="logo" />
-            <a
-              href="https://app.getstellr.io/login"
-              className="header-button link-tagger"
-            >
-              Get Started
-            </a>
+            <div className="header-min-left">
+              {" "}
+              <a
+                href="mailto:contact@getstellr.io"
+                className="contact-button link-tagger"
+              >
+                contact@getstellr.io
+              </a>
+              <a
+                href="https://app.getstellr.io/login"
+                className="header-button link-tagger"
+              >
+                Get Started
+              </a>
+            </div>
           </nav>
         </div>
         <div className="main-content">
