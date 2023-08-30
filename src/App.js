@@ -11,10 +11,10 @@ function App() {
             <div className="header-min-left">
               {" "}
               <a
-                href="mailto:contact@getstellr.io"
+                href="mailto:sahil@getstellr.io"
                 className="contact-button link-tagger"
               >
-                contact@getstellr.io
+                sahil@getstellr.io
               </a>
               <a
                 href="https://app.getstellr.io/login"
