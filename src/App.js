@@ -68,12 +68,32 @@ function App() {
         <div className="laptop__shadow" />
         <footer>
           <div className="footer-inside">
-            <h1>© Stellr Tech Solutions Private Limited</h1>
+            <h1>
+              © Stellr Tech Solutions Private Limited and Made with ❤️ by
+              <span
+                onClick={() => {
+                  window.location.href = "https://www.futurecloud.in/";
+                }}
+              >
+                {" "}
+                Futurecloud
+              </span>
+            </h1>
           </div>
         </footer>
       </div>
       <div className="main-div-bottom">
-        <h1>© Stellr Tech Solutions Private Limited</h1>
+        <h1>
+          © Stellr Tech Solutions Private Limited and Made with ❤️ by
+          <span
+            onClick={() => {
+              window.location.href = "https://www.futurecloud.in/";
+            }}
+          >
+            {" "}
+            Futurecloud
+          </span>
+        </h1>
       </div>
     </div>
   );
