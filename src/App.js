@@ -69,7 +69,8 @@ function App() {
         <footer>
           <div className="footer-inside">
             <h1>
-              © Stellr Tech Solutions Private Limited and Made with ❤️ by
+              © Stellr Tech Solutions Private Limited <br />
+              Made with ❤️ by
               <span
                 onClick={() => {
                   window.location.href = "https://www.futurecloud.in/";
@@ -84,7 +85,8 @@ function App() {
       </div>
       <div className="main-div-bottom">
         <h1>
-          © Stellr Tech Solutions Private Limited and Made with ❤️ by
+          © Stellr Tech Solutions Private Limited <br />
+          Made with ❤️ by
           <span
             onClick={() => {
               window.location.href = "https://www.futurecloud.in/";
