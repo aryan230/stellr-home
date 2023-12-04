@@ -20,7 +20,7 @@ function App() {
                 href="https://app.getstellr.io/login"
                 className="header-button link-tagger"
               >
-                Get Started
+                Get Started for FREE
               </a>
             </div>
           </nav>
@@ -61,7 +61,7 @@ function App() {
       <div className="laptop">
         <div className="laptop__screen">
           <img
-            src="./assets/capture.png"
+            src="./assets/capture-5.png"
             width={1600}
             height={1000}
             alt="Screen"
