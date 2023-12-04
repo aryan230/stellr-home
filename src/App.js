@@ -33,9 +33,14 @@ function App() {
               {/* Advanced ELN for 
               Modern Scientists */}
             </h1>
-            <p>Discover. Simplify. Achieve</p>
+            <p>
+              Stellr is a digital tool for scientists to document and manage lab
+              work. It modernizes the old paper notebook approach, centralizing
+              data for quick search and collaboration, enhancing research
+              efficiency.
+            </p>
             <a href="https://app.getstellr.io/login" className="link-tagger">
-              Get Started
+              Get Started for FREE
             </a>
           </div>
         </div>
