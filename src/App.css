@@ -59,6 +59,12 @@ nav {
   justify-content: space-between;
 }
 
+@media screen and (max-width: 900px) {
+  .margin-maker {
+    display: none;
+  }
+}
+
 img.logo {
   width: 8rem;
 }
@@ -74,7 +80,7 @@ a.contact-button {
   border-radius: 2rem;
   background-color: transparent;
   text-decoration: none;
-  padding: 0.5rem 2rem;
+  padding: 0rem;
   box-shadow: 0px 1px 2px 0px rgba(16, 24, 40, 0);
 }
 
@@ -82,6 +88,11 @@ a.contact-button {
   a.contact-button {
     display: none;
   }
+}
+
+.margin-maker {
+  margin-left: 20px;
+  margin-right: 10px;
 }
 
 a.header-button {

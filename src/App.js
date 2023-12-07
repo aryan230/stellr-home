@@ -17,6 +17,13 @@ function App() {
                 sahil@getstellr.io
               </a>
               <a
+                href="https://calendly.com/sahil-y6s/stellr-demo"
+                className="link-tagger margin-maker"
+                target="_blank"
+              >
+                Request a Demo
+              </a>
+              <a
                 href="https://app.getstellr.io/login"
                 className="header-button link-tagger"
               >
@@ -60,12 +67,7 @@ function App() {
       </div>
       <div className="laptop">
         <div className="laptop__screen">
-          <img
-            src="./assets/capture-5.png"
-            width={1600}
-            height={1000}
-            alt="Screen"
-          />
+          <img src="./assets/3.png" width={1600} height={1000} alt="Screen" />
         </div>
         <div className="laptop__bottom">
           <div className="laptop__under" />
