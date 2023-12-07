@@ -21,7 +21,7 @@ function App() {
                 className="link-tagger margin-maker"
                 target="_blank"
               >
-                Request a Demo
+                Book a Demo
               </a>
               <a
                 href="https://app.getstellr.io/login"
