@@ -1,5 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
+import { MoveRight } from "lucide-react";
 
 function App() {
   return (
@@ -67,7 +68,7 @@ function App() {
       </div>
       <div className="laptop">
         <div className="laptop__screen">
-          <img src="./assets/3.png" width={1600} height={1000} alt="Screen" />
+          <img src="./assets/4.png" width={1600} height={1000} alt="Screen" />
         </div>
         <div className="laptop__bottom">
           <div className="laptop__under" />
